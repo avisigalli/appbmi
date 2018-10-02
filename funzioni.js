@@ -18,3 +18,4 @@ function calcolo(){
   function cancella(){
     document.getElementById('calcola').innerHTML=" "; 
   }
+/* ciao a tutti */
